@@ -8,3 +8,6 @@ langchain-huggingface
 langchain-core
 sentence-transformers
 faiss-cpu
+torch
+torchvision
+transformers
